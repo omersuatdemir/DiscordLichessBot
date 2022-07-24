@@ -1,2 +1,2 @@
-# What Is This Bot?
-This bot allows users to **play chess by voting the moves together** using the lichess api over discord.
+# Discord-Lichess Bot
+This bot is a discord-lichess integration, it allows users to play chess by voting moves together via Discord.
